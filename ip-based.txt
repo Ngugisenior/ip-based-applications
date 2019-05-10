@@ -1,0 +1,19 @@
+1. UDP is an nrelable protocol.
+     -UDP is a connection-less protocol
+     -UDP does not use acknowledgements
+     -Unreliable
+     -no sequencing
+     -no windowing or retransmission
+2. TCP characteristics.
+     -Reliable
+     -Connection-oriented
+     -Segment retransmission and flow control through windowing
+     -Segment sequencing
+     -Acknowledgement sequencing
+3. DNS is an application-layer protocol::this is because it allows the
+      application to translate a name into a network address.
+4. Which flags are set in the second segment of TCP 3way handshake?
+     -SYN
+     -ACK
+5. In order packets are discarded by selective repeat protocols.
+     -
